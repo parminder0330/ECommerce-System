@@ -110,8 +110,6 @@ public class Book extends Product
    */
   public void print()
   {
-  	// Replace the line below.
-  	// Make use of the super class print() method and append the title and author info. See the video
 	  System.out.printf("\nId: %-5s Category: %-9s Name: %-20s Price: %7.1f Book Title: %-20s Author: %-2s Year:  %-2s ", this.getId(), this.getCategory(), this.getName(), this.getPrice(), title, author, year);
   }
 }
