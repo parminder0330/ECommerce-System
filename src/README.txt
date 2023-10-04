@@ -1,0 +1,1 @@
+Everything works as per requirements except for bonus question. All exceptions are handled. products map is created using the products.txt file provided. stats are provided using same map as well.
